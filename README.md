@@ -78,5 +78,5 @@ Edit `index.js` to customize:
 - Board images are fetched from https://chessboardimage.com/
 
 ## License
+GPL-3.0
 
-MIT
