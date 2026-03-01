@@ -1,0 +1,28 @@
+{
+  "name": "whatsapp-chess-bot",
+  "version": "1.0.1",
+  "description": "A WhatsApp bot that lets you play chess via interactive polls with an AI opponent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "chess",
+    "bot",
+    "poll",
+    "game",
+    "ai"
+  ],
+  "author": "David Sebbag",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "chess.js": "^1.0.0",
+    "js-chess-engine": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
