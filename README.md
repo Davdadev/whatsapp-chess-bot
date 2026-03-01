@@ -19,7 +19,7 @@ npm install whatsapp-chess-bot
 Or clone and run:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Davdadev/whatsapp-chess-bot.git
 cd whatsapp-chess-bot
 npm install
 npm start
